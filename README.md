@@ -19,7 +19,7 @@ I am Vinche, a student from Naples. 🇮🇹
 
 I like programming a lot and actually I mostly just develop whatever comes into my mind.
 
-- 🔭 I'm currently working on [StrapBot](https://github.com/StrapBot/StrapBot) and other private projects (sometimes for school);
-<!--- 🌱 I’m currently learning how to make HTML games with [Phaser](https://github.com/phaserjs/phaser) for a game development contest;-->
-- 📫 You can reach me via [Telegram](https://t.me/Vinchethescript), Discord (`@vinche.zsh`) or email (<vinchethescript@gmail.com>);
+- 🔭 I'm currently working on some private projects (sometimes for school);
+<!--- 🌱 I’m currently learning ...;-->
+- 📫 You can reach me via [Telegram](https://t.me/Vinchethescript), Discord (`@vinche.zsh`), email (<vinchethescript@gmail.com>) or from [my website](https://vinchethescript.github.io);
 - ⚡ Fun fact: I'm faster than everyone else in my class at writing working code (while keeping it beautiful!).
